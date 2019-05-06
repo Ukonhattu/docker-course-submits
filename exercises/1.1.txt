@@ -1,0 +1,5 @@
+daxda@#######:/home/local/daxda/docker-course$ docker ps -a
+CONTAINER ID        IMAGE               COMMAND                  CREATED             STATUS                          PORTS               NAMES
+59ddacfe0165        nginx               "nginx -g 'daemon of…"   2 minutes ago       Exited (0) About a minute ago                       keen_dirac
+4f30dd678fb7        nginx               "nginx -g 'daemon of…"   2 minutes ago       Exited (0) About a minute ago                       cocky_noyce
+04127cea956d        nginx               "nginx -g 'daemon of…"   2 minutes ago       Up 2 minutes                    80/tcp              gracious_proskuriakova
