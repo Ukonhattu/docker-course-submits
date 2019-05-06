@@ -1,0 +1,4 @@
+daxda@######:/home/local/daxda/docker-course$ docker ps -a
+CONTAINER ID        IMAGE               COMMAND             CREATED             STATUS              PORTS               NAMES
+daxda@######:/home/local/daxda/docker-course$ docker images
+REPOSITORY          TAG                 IMAGE ID            CREATED             SIZE
