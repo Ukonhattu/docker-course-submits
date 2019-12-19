@@ -1,0 +1,6 @@
+docker run -it --name exercise ubuntu:16.04 sh -c  'echo "Input website:"; read website; echo "Searching.."; sleep 1; curl http://$website; sleep 10;'
+-- in another cmd
+docker exec exercise apt-get update
+docker exec exercise apt-get install -y curl
+--
+now you can write website address in first cmd
